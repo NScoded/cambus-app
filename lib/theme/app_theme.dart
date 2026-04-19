@@ -60,7 +60,7 @@ class AppTheme {
           showSelectedLabels: true,
           showUnselectedLabels: true,
         ),
-        cardTheme: CardThemeData(
+        cardTheme: CardTheme(
           color: cardBg,
           elevation: 0,
           shape: RoundedRectangleBorder(
